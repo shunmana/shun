@@ -41,7 +41,8 @@ img_flip.save(output_image)
 ### 出力結果
 - 以下のように入力画像の左右反転画像が出力されます。
   | 入力画像(input.jpg) | 出力画像(output.jpg) |
-  | ![向かい合う犬]<img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/ffd5811d-72c3-4b09-bac7-004feebbaee7" /> | ![向かい合う犬左右反転]<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/c0293865-29b4-4417-a864-92ee5bb87414" /> |
+  | <img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/69059423-b409-4fff-8ddd-487b7c17142a" />
+ | <img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/c0293865-29b4-4417-a864-92ee5bb87414" /> |
 以上
 
 
